@@ -268,7 +268,7 @@
 
    * - 14
      - Покузиёв Григорий Александрович 
-     -                      `1 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id1>`__              `2 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id2>`__              `3 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id3>`__              `4 <https://lectureskpd.readthedocs.io/kpd/_checkpoint.html#id4>`__                          
+     -                      `1 <https://github.com/TITANbat9/lab1>`__              `2 <https://gist.github.com/TITANbat9/aa2d058219c24f065bcc298d0a9cf962>`__              `3 <https://gist.github.com/TITANbat9/f957e633488e50ddb53a9a8c3d3373a0>`__              `4 <https://gist.github.com/TITANbat9/386fdc8f56147bb7fe724ec514b746e8>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint0.html>`__                          
      -                      `1 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id2>`__              `2 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id3>`__              `3 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id4>`__              `5 <http://lecturesnet.readthedocs.io/net/_checkpoint.html#id6>`__                          
      -                      `1 <https://github.com/ustu/lectures.www/issues?q=is:issue+is:open+label:enhancement>`__                          
